@@ -9,4 +9,4 @@ Do you want to maximize your training? Whether you're a recreational athlete or 
 Head on over to my personal [website](https://share.streamlit.io/jonathjd/webapp/main/main.py) where you can enter your current resting heart rate, and the model will give you a prediction on whether you should go hard or kick your feet up :wink:
 
 ### Data collection
-Data were collected over a 12-week training program that included resistance training and some low intensity cardiorespiratory exercises (walking/biking).
+Aggregated data that was collected from WHOOP fitness band and analyzed trends and correlative variables that influenced fat loss and increase body composition over a 12-week training cycle. After exploratory data analysis, a predictive model was generated using linear regression to attempt to predict heart rate variability from resting heart rate values.
